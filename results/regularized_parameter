@@ -1,0 +1,5 @@
+train-100-10.csv,0,8,149
+train-100-100.csv,0,22,149
+train-1000-100.csv,0,27,149
+train-crime.csv,0.75,149
+train-wine.csv,0,2,149
